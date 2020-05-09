@@ -1,4 +1,4 @@
 # Project Express-Food
 
-Software analysis
-UML modeling
+Software analysis.
+UML modeling.
